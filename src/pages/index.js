@@ -175,6 +175,8 @@ export default IndexPage
 
 export const Head = () => (
   <>
+    <title>Robinson &amp; Henry, P.C.: Award-winning Law Firm Sets Industry Gold Standard With Gatsby | Gatsby</title>
+    <meta name="og:title" content="Robinson &amp; Henry, P.C.: Award-winning Law Firm Sets Industry Gold Standard With Gatsby | Gatsby" />
     <meta name="og:description" content="An award-winning, full-service law firm uses Gatsby to power their high-performing website." />
     <meta name="og:image" content="https://www.gatsbyjs.com/_gatsby/image/a38902710e03b55ed7e96f9776cad632/e85871015a3efb5874b4b6d391cbec19/Robinson-Henry_-Award-winning-Law-Firm-Sets-Industry-Gold-Standard-With-Gatsby.jpg?u=https%3A%2F%2Fgatsbycontent.wpengine.com%2Fwp-content%2Fuploads%2F2022%2F09%2FRobinson-Henry_-Award-winning-Law-Firm-Sets-Industry-Gold-Standard-With-Gatsby.jpg&amp;a=w%3D1200%26h%3D630%26fm%3Djpg%26q%3D75&amp;cd=91b86afde46fe0c9814abfc6cb1e713c" />
   </>
